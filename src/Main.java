@@ -8,6 +8,7 @@ public class Main {
         System.out.println(c.calcularPerimetro());
         System.out.println(c.calcularArea());
         c.dibujar();
+        c.mostrar();
         System.out.println();
         System.out.println();
 
